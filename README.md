@@ -252,39 +252,75 @@ Logging:
 25. What are some of the most popular packages of Node.js?
 
 1.Async: Async is a utility module which provides straight-forward, powerful functions for working with asynchronous JavaScript.
+
 2. Browserify: Browserify will recursively analyze all the require() calls in your app in order to build a bundle you can serve up to the browser in a single <script> tag.
+
 3. Bower: Bower is a package manager for the web. It works by fetching and installing packages from all over, taking care of hunting, finding, downloading, and saving the stuff you’re looking for.
+
 4. Csv: csv module has four sub modules which provides CSV generation, parsing, transformation and serialization for Node.js.
+ 
 5. Debug: Debug is a tiny node.js debugging utility modelled after node core's debugging technique.
+ 
 6. Express: Express is a fast, un-opinionated, minimalist web framework. It provides small, robust tooling for HTTP servers, making it a great solution for single page applications, web sites, hybrids, or public HTTP APIs.
+ 
 7. Grunt: is a JavaScript Task Runner that facilitates creating new projects and makes performing repetitive but necessary tasks such as linting, unit testing, concatenating and minifying files (among other things) trivial.
+ 
 8. Gulp: is a streaming build system that helps you automate painful or time-consuming tasks in your development workflow.
+ 
 9. Hapi: is a streaming build system that helps you automate painful or time-consuming tasks in your development workflow.
+ 
 10. Http-server: is a simple, zero-configuration command-line http server. It is powerful enough for production usage, but it's simple and hackable enough to be used for testing, local development, and learning.
+ 
 11. Inquirer: A collection of common interactive command line user interfaces.
+ 
 12. Jquery: jQuery is a fast, small, and feature-rich JavaScript library.
+ 
 13. Jshint: Static analysis tool to detect errors and potential problems in JavaScript code and to enforce your team's coding conventions.
+ 
 14. Koa: Koa is web app framework. It is an expressive HTTP middleware for node.js to make web applications and APIs more enjoyable to write.
+ 
 15. Lodash: The lodash library exported as a node module. Lodash is a modern JavaScript utility library delivering modularity, performance, & extras.
+ 
 16. Less: The less library exported as a node module.
+ 
 17. Moment: A lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates.
+ 
 18. Mongoose: It is a MongoDB object modeling tool designed to work in an asynchronous environment.
+ 
 19. MongoDB: The official MongoDB driver for Node.js. It provides a high-level API on top of mongodb-core that is meant for end users.
+ 
 20. Npm: is package manager for javascript.
+ 
 21. Nodemon: It is a simple monitor script for use during development of a node.js app, It will watch the files in the directory in which nodemon was started, and if any files change, nodemon will automatically restart your node application.
+ 
 22. Nodemailer: This module enables e-mail sending from a Node.js applications.
+ 
 23. Optimist: is a node.js library for option parsing with an argv hash.
+ 
 24. Phantomjs: An NPM installer for PhantomJS, headless webkit with JS API. It has fast and native support for various web standards: DOM handling, CSS selector, JSON, Canvas, and SVG.
+ 
 25. Passport: A simple, unobtrusive authentication middleware for Node.js. Passport uses the strategies to authenticate requests. Strategies can range from verifying username and password credentials or authentication using OAuth or OpenID.
+ 
 26. Q: Q is a library for promises. A promise is an object that represents the return value or the thrown exception that the function may eventually provide.
+ 
 27. Request: Request is Simplified HTTP request client make it possible to make http calls. It supports HTTPS and follows redirects by default.
+ 
 28. Socket.io: Its a node.js realtime framework server.
+ 
 29. Sails: Sails : API-driven framework for building realtime apps, using MVC conventions (based on Express and Socket.io)
+ 
 30. Through: It enables simplified stream construction. It is easy way to create a stream that is both readable and writable.
+ 
 31. Underscore: Underscore.js is a utility-belt library for JavaScript that provides support for the usual functional suspects (each, map, reduce, filter...) without extending any core JavaScript objects.
+ 
 32. Validator: A nodejs module for a library of string validators and sanitizers.
+ 
 33. Winston: A multi-transport async logging library for Node.js
+ 
 34. Ws: A simple to use, blazing fast and thoroughly tested websocket client, server and console for node.js
+ 
 35.Xml2js: A Simple XML to JavaScript object converter.
+ 
 36.Yo: A CLI tool for running Yeoman generators
-27. Zmq: Bindings for node.js and io.js to ZeroMQ .It is a high-performance asynchronous messaging library, aimed at use in distributed or concurrent applications.
+ 
+37. Zmq: Bindings for node.js and io.js to ZeroMQ .It is a high-performance asynchronous messaging library, aimed at use in distributed or concurrent applications.
